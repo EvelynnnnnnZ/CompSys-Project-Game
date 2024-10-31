@@ -1,0 +1,18 @@
+List of Nodes in Ddynamic Memory
+Node #0: address = 0x0000, contents = 0x1234, label = nil, assembly = nil
+Node #1: address = 0x0001, contents = 0x5678, label = nil, assembly = nil
+List of Nodes in Ddynamic Memory
+Node #0: address = 0x0000, contents = 0x1234, label = nil, assembly = nil
+Node #1: address = 0x0001, contents = 0x5678, label = nil, assembly = nil
+Node #2: address = 0x0002, contents = 0xDEF0, label = nil, assembly = nil
+Node #3: address = 0x0003, contents = 0x9ABC, label = nil, assembly = nil
+List of Nodes in Ddynamic Memory
+Node #0: address = 0x0000, contents = 0x1234, label = nil, assembly = nil
+Node #1: address = 0x0001, contents = 0x5678, label = nil, assembly = nil
+Node #2: address = 0x0003, contents = 0x9ABC, label = nil, assembly = nil
+final version exactly following what indicated by the main: 
+List of Nodes in Ddynamic Memory
+Node #0: address = 0x0001, contents = 0x5678, label = nil, assembly = nil
+Node #1: address = 0x0003, contents = 0x9ABC, label = nil, assembly = nil
+final version if we want leak to be zero: 
+The head is NULL.
